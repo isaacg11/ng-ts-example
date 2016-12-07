@@ -1,0 +1,15 @@
+{
+  "name": "exampleapp",
+  "version": "1.0.0",
+  "description": "example app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isaac grey",
+  "license": "ISC",
+  "dependencies": {
+    "@types/angular": "^1.5.20",
+    "@types/angular-ui-router": "^1.1.35"
+  }
+}
